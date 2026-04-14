@@ -1,8 +1,11 @@
 # -Retail-Sales-Analysis
 
 • Analyzed retail dataset using SQL
+
 • Extracted insights on sales trends and customer behavior
-• Used GROUP BY, JOIN, aggregate functions
+
+• Used GROUP BY, aggregate functions
+
 • Built real-world business queries
 
 
